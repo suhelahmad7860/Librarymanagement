@@ -1,2 +1,1 @@
-# Librarymanagement
-This is a basic Java application developed for [brief purpose here – e.g., practicing core Java concepts / solving a specific problem / building a simple utility app]. The MainApp.java file serves as the entry point and contains the main logic of the application.
+This Library Management System is a simple Java-based console application designed to simulate basic library operations such as managing books and users. It is ideal for beginners who want to understand how to apply Object-Oriented Programming (OOP) principles in real-world applications
